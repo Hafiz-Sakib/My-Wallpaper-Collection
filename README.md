@@ -1,9 +1,3 @@
-<h1 align="center">🖼️ My Wallpaper Collection</h1>
-
-<p align="center">
-  <img src="https://i.postimg.cc/52c4rLdX/wallpaperflare-com-wallpaper-38.jpg" width="100%">
-</p>
-
 <p align="center">
   <em>A curated personal archive of Desktop & Mobile wallpapers — organized, numbered, and ready to use.</em>
 </p>
