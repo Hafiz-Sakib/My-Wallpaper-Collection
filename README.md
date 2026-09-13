@@ -156,4 +156,4 @@ Wallpapers are collected from various free-to-use sources across the web for per
 
 <p align="center">
   Made with 🖤 by <a href="https://github.com/Hafiz-Sakib">Hafiz-Sakib</a>
-</p>s
+</p>
