@@ -49,11 +49,11 @@ A quick preview of 10 wallpapers from the **Desktop** collection:
     <td><img src="Desktop/5.jpg" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Desktop/6.jpg" width="100%"></td>
-    <td><img src="Desktop/7.jpg" width="100%"></td>
-    <td><img src="Desktop/8.jpg" width="100%"></td>
-    <td><img src="Desktop/9.jpg" width="100%"></td>
-    <td><img src="Desktop/10.jpg" width="100%"></td>
+    <td><img src="Desktop/6.png" width="100%"></td>
+    <td><img src="Desktop/7.png" width="100%"></td>
+    <td><img src="Desktop/8.jpeg" width="100%"></td>
+    <td><img src="Desktop/9.png" width="100%"></td>
+    <td><img src="Desktop/10.png" width="100%"></td>
   </tr>
 </table>
 
