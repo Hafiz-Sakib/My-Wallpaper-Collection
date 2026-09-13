@@ -43,4 +43,4 @@ for i, (temp_path, ext) in enumerate(temp_files, start=1):
     new_path = os.path.join(folder, new_name)
     os.rename(temp_path, new_path)
 
-print(f"Done! {len(all_images)} image(s) renamed using letters (a, b, ..., z, aa, ab, ...).")s
+print(f"Done! {len(all_images)} image(s) renamed using letters (a, b, ..., z, aa, ab, ...).")
