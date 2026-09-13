@@ -58,8 +58,8 @@ A quick preview of 10 wallpapers from the **Desktop** collection:
   </tr>
   <tr>
     <td><img src="Desktop/10.png" width="100%"></td>
-    <td></td>
-    <td></td>
+    <td><img src="Desktop/11.jpg" width="100%"></td>
+    <td><img src="Desktop/12.jpg" width="100%"></td>
   </tr>
 </table>
 
@@ -89,8 +89,8 @@ A quick preview of 10 wallpapers from the **Mobile** collection:
   </tr>
   <tr>
     <td><img src="Mobile/10.jpg" width="100%"></td>
-    <td></td>
-    <td></td>
+    <td><img src="Mobile/11.jpg" width="100%"></td>
+    <td><img src="Mobile/12.jpg" width="100%"></td>
   </tr>
 </table>
 
