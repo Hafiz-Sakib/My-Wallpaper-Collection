@@ -15,7 +15,7 @@
 ```
 My-Wallpaper-Collection/
 │
-├── Desktop/              # 198 desktop wallpapers (16:9 / widescreen)
+├── Desktop/              # 209 desktop wallpapers (16:9 / widescreen)
 │   ├── 1.jpg
 │   ├── 2.jpg
 │   ├── ...
