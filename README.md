@@ -44,28 +44,30 @@ A quick preview of 10 wallpapers from the **Desktop** collection:
   <tr>
     <td><img src="Desktop/1.jpg" width="100%"></td>
     <td><img src="Desktop/2.png" width="100%"></td>
-    <td><img src="Desktop/33.jpg" width="100%"></td>
   </tr>
   <tr>
+    <td><img src="Desktop/33.jpg" width="100%"></td>
     <td><img src="Desktop/45.jpg" width="100%"></td>
+  </tr>
+  <tr>
     <td><img src="Desktop/50.png" width="100%"></td>
     <td><img src="Desktop/6.png" width="100%"></td>
   </tr>
   <tr>
     <td><img src="Desktop/78.png" width="100%"></td>
     <td><img src="Desktop/98.png" width="100%"></td>
-    <td><img src="Desktop/143.png" width="100%"></td>
   </tr>
   <tr>
+    <td><img src="Desktop/143.png" width="100%"></td>
     <td><img src="Desktop/158.png" width="100%"></td>
+  </tr>
+  <tr>
     <td><img src="Desktop/204.jpg" width="100%"></td>
     <td><img src="Desktop/12.jpg" width="100%"></td>
   </tr>
 </table>
 
 > 📁 [Browse the full Desktop folder →](./Desktop)
-
----
 
 ## 📱 Mobile Showcase
 
