@@ -62,7 +62,7 @@ A quick preview of 10 wallpapers from the **Desktop** collection:
     <td><img src="Desktop/158.png" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Desktop/204.jpg" width="100%"></td>
+    <td><img src="Desktop/107.jpeg" width="100%"></td>
     <td><img src="Desktop/12.jpg" width="100%"></td>
   </tr>
 </table>
