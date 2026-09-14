@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desktop-198%20images-blue?style=for-the-badge&logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/Desktop-209%20images-blue?style=for-the-badge&logo=windows11&logoColor=white">
   <img src="https://img.shields.io/badge/Mobile-238%20images-green?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Total-436%20wallpapers-orange?style=for-the-badge&logo=googlephotos&logoColor=white">
 </p>
@@ -43,22 +43,22 @@ A quick preview of 10 wallpapers from the **Desktop** collection:
 <table>
   <tr>
     <td><img src="Desktop/1.jpg" width="100%"></td>
-    <td><img src="Desktop/2.jpg" width="100%"></td>
-    <td><img src="Desktop/3.jpg" width="100%"></td>
+    <td><img src="Desktop/2.png" width="100%"></td>
+    <td><img src="Desktop/33.jpg" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Desktop/4.jpg" width="100%"></td>
-    <td><img src="Desktop/5.jpg" width="100%"></td>
+    <td><img src="Desktop/45.jpg" width="100%"></td>
+    <td><img src="Desktop/50.png" width="100%"></td>
     <td><img src="Desktop/6.png" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Desktop/7.png" width="100%"></td>
-    <td><img src="Desktop/8.jpeg" width="100%"></td>
-    <td><img src="Desktop/9.png" width="100%"></td>
+    <td><img src="Desktop/78.png" width="100%"></td>
+    <td><img src="Desktop/98.png" width="100%"></td>
+    <td><img src="Desktop/143.png" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Desktop/10.png" width="100%"></td>
-    <td><img src="Desktop/11.jpg" width="100%"></td>
+    <td><img src="Desktop/158.png" width="100%"></td>
+    <td><img src="Desktop/204.jpg" width="100%"></td>
     <td><img src="Desktop/12.jpg" width="100%"></td>
   </tr>
 </table>
