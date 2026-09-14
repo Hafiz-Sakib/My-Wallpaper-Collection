@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Desktop-209%20images-blue?style=for-the-badge&logo=windows11&logoColor=white">
   <img src="https://img.shields.io/badge/Mobile-238%20images-green?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Total-436%20wallpapers-orange?style=for-the-badge&logo=googlephotos&logoColor=white">
+  <img src="https://img.shields.io/badge/Total-447%20wallpapers-orange?style=for-the-badge&logo=googlephotos&logoColor=white">
 </p>
 
 ---
